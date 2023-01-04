@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(95, 86, 178);
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15%;
+    color: white;
+}
+#btn{
+    background-color: rgb(13, 241, 70);
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
